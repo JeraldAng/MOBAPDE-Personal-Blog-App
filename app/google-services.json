@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735940113168",
+    "firebase_url": "https://blogandroidchallenge.firebaseio.com",
+    "project_id": "blogandroidchallenge",
+    "storage_bucket": "blogandroidchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735940113168:android:1353e8d1f451014d126b95",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735940113168-9j2nrnvr766do9gpspen05rtij0gta4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blog",
+            "certificate_hash": "92642025c4ac60c7024484a5924b6bd5d4ddff0a"
+          }
+        },
+        {
+          "client_id": "735940113168-isdts2alhdidoracnn74pc4oedmalbl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrzberonRgdhbz502o5JG4epzehpWlTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735940113168-isdts2alhdidoracnn74pc4oedmalbl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
